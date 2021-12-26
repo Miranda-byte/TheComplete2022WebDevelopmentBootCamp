@@ -1,0 +1,23 @@
+body {
+  background-color: #c2d6ff;
+  font-family: Cursive;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 6%;
+  border-color: #66806A;
+  border-width: 6px;
+}
+
+h1 {
+  color: #009DAE;
+}
+
+h3 {
+  color: #009DAE;
+}
+
+.arial {
+  font-family: Arial;
+}
